@@ -7,3 +7,8 @@ Colortest is useful for testing how base 16 colors are represented in your termi
 
 ## Screenshot
 ![colortest](colortest.png)
+
+## Example GIF 
+![colortest](colortest.gif)
+
+gif thanks to [vhs](https://github.com/charmbracelet/vhs)

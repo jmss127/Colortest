@@ -29,7 +29,7 @@ do
     # assign rgb colors to $color
     color="\e[38;2;"$r";"$g";"$b"m"
     # print message
-    echo -e "$color This is \#$hexcode rgb = $r $g $b. The quick brown fox jumps over the lazy dog"
+    echo -e "$color This is \#$hexcode rgb = $r $g $b. Calculating Magic Words..."
     # reset colors
     echo -e "$reset"
 done
